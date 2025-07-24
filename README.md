@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm ROHIT SINGH</h1>
 <h3 align="center">"Engineer by passion. Builder by choice."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyxparadox&label=Profile%20views&color=0e75b6&style=flat" alt="nyxparadox" /> </p>
-
 - 🔭 I’m currently working on [Smart Doorbell System](https://github.com/nyxparadox/Smart_Doorbell_Security_system)
 
-- 💬 Ask me about **c++ ,python, dart, flutter**
+- 💬 Ask me about **“Ask me about how to turn rough ideas into working products.”**
 
 - 📫 How to reach me **paradoxzsite@gmail.com**
 
@@ -13,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/_rohit.7__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohit.7__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nyxparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nyxparadox" height="30" width="40" /></a>
 </p>
 
