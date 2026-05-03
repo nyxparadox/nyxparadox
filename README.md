@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm ROHIT SINGH</h1>
-<h3 align="center">"Engineer by passion. Builder by choice."</h3>
+<h1 align="center">Hi 👋, I'm ROHIT SINGH</h1>  
+<h3 align="center">"Making machines think, not just work"</h3>
+<a href="https://www.github.com/nyxparadox" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/nyxparadox?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 🔭 I’m currently working on [Smart Doorbell System](https://github.com/nyxparadox/Smart_Doorbell_Security_system)
+# 💫 About Me:
+Electronic and Communication Engineering(ECE) student focused on IoT and embedded systems with software integration<br><br>Experience includes developing applications and working on projects that connect embedded concepts with real-world software systems<br><br>Actively improving problem-solving skills, system-level thinking and writing efficient, maintainable code and exploring Computer Vision for intelligent systems.
 
-- 💬 Ask me about **“Ask me about how to turn rough ideas into working products.”**
+* 📍 I'm Based in Shimla, Himachal Pradesh, India.
+* 🖥️  See my portfolio at [nyxparadox.github.io/rohit\_singh-portfolio/](http://nyxparadox.github.io/rohit_singh-portfolio/)
+*  🚀  I'm currently working on [NoticeDesk - mobile App for led notice board](http://github.com/nyxparadox/IoT-Enabled_Digital_Notice_Board/tree/main/mobile_app)
+- ⚡ Fun fact: **I Think I am Wizard**
 
-- 📫 How to reach me **paradoxzsite@gmail.com**
 
-- ⚡ Fun fact **I Think I am Wizard**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohit.7__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh-nyx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paradoxzsite@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_rohit.7__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohit.7__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nyxparadox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nyxparadox" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit-singh-nyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-singh-nyx" height="30" width="40" /></a>
 
-</p>
+# 💻 Technical Skills:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nyxparadox&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nyxparadox&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nyxparadox&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxparadox&show_icons=true&locale=en&layout=compact" alt="nyxparadox" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyxparadox&show_icons=true&locale=en" alt="nyxparadox" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxparadox&" alt="nyxparadox" /></p>
+### ✍️ Todays Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
